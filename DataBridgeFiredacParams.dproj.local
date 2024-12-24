@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/21 10:04:42.000.023,=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/21 10:05:03.000.701,=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/21 10:07:35.000.250,F:\2031\Projects\DataBridge\Main.View.pas=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/21 10:07:35.000.250,F:\2031\Projects\DataBridge\Main.View.fmx=F:\2031\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/12/21 10:07:47.000.686,F:\2031\Projects\DataBridge\DataBridge.dproj=F:\2031\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/12/21 10:14:15.000.013,=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Model.DB.Exceptions.pas</Transaction>
+    <Transaction>2024/12/21 10:15:02.000.184,=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.BaseParams.pas</Transaction>
+    <Transaction>2024/12/21 10:17:26.000.062,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacParams.Interfaces.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.BaseParams.pas</Transaction>
+    <Transaction>2024/12/21 10:18:20.000.721,=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.DB.ConnectionParams.pas</Transaction>
+    <Transaction>2024/12/21 10:20:12.000.020,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacBaseParams.Interfaces.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacParams.Interfaces.pas</Transaction>
+    <Transaction>2024/12/21 10:20:38.000.925,=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.ConnectionParams.pas</Transaction>
+    <Transaction>2024/12/21 10:22:58.000.837,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacDB.Params.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.DB.ConnectionParams.pas</Transaction>
+    <Transaction>2024/12/21 10:24:45.000.100,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.Params.Types.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacDB.Params.pas</Transaction>
+    <Transaction>2024/12/21 10:26:24.000.794,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacParams.BaseInterface.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.FiredacBaseParams.Interfaces.pas</Transaction>
+    <Transaction>2024/12/21 10:28:04.000.136,F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.ParamsTypes.pas=F:\2031\Projects\DataBridge\Model\Bridge\DB-Core\Firedac\Model.Firedac.Params.Types.pas</Transaction>
+    <Transaction>2024/12/21 17:16:44.000.123,=F:\2031\Projects\DataBridge\Unit1.pas</Transaction>
+    <Transaction>2024/12/21 17:18:09.000.842,F:\2031\Projects\DataBridge\Unit1.pas=F:\2031\Projects\DataBridge\Model\DM\DM.DB.Bridge.pas</Transaction>
+    <Transaction>2024/12/21 17:18:09.000.842,F:\2031\Projects\DataBridge\Unit1.dfm=F:\2031\Projects\DataBridge\Model\DM\DM.DB.Bridge.dfm</Transaction>
+    <Transaction>2024/12/24 06:25:06.000.602,F:\2031\Projects\DataBridge\DataBridge.dproj=F:\2031\Projects\DataBridge\DataBridgeFiredacParams.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

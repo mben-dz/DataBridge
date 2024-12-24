@@ -1,0 +1,47 @@
+object MainView: TMainView
+  Left = 0
+  Top = 0
+  Caption = 'DataBridge Firedac Params Demo'
+  ClientHeight = 170
+  ClientWidth = 470
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object BtnTest: TButton
+    Cursor = crHandPoint
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 176.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Test SQLite Firedac Params'
+    TextSettings.Trimming = None
+    OnClick = BtnTestClick
+  end
+  object Memo_Log: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 192.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 270.000000000000000000
+    Size.Height = 121.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Viewport.Width = 266.000000000000000000
+    Viewport.Height = 117.000000000000000000
+  end
+  object BtnGetAdoDialog: TButton
+    Cursor = crHandPoint
+    Position.X = 8.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 176.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'Btn Get Ado Dialog'
+    TextSettings.Trimming = None
+    OnClick = BtnGetAdoDialogClick
+  end
+end
